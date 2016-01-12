@@ -1,0 +1,11 @@
+#social {
+	float: left;
+	text-align: center;
+}
+
+#other {
+	position: relative;
+	text-align: center;
+	float: right;
+	right: 25%;
+}
