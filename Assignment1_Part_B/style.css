@@ -1,0 +1,16 @@
+#dog {
+	float: left;
+	text-align: center;
+}
+
+#cat {
+	position: relative;
+	text-align: center;
+	float: right;
+	right: 50%;
+}
+
+#rhino {
+	float: right;
+	text-align: center;
+}
