@@ -1,0 +1,22 @@
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+
+ul ul li {
+	font-size: 20px;
+}
+ul ul li ul li {
+	font-size: 17px;
+}
+ol li {
+	font-size: 23px;
+}
+ol li ul li {
+	font-size: 20px;
+}
