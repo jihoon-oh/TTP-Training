@@ -1,0 +1,25 @@
+#column1 {
+	float: left;
+	text-align: center;
+}
+
+#column2 {
+	position: absolute;
+	text-align: center;
+	float: right;
+	right: 60%;
+}
+
+#column3 {
+	position: absolute;
+	float: right;
+	text-align: center;
+	right: 35%;
+}
+
+#column4 {
+	position: absolute;
+	right: 8%;
+	float: right;
+	text-align: center;
+}
