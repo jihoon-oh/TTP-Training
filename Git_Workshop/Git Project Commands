@@ -1,0 +1,6 @@
+Below are the step-by-step git commands to start a new project 
+1. "git init" - Initialize git
+2. "git add [File Name]" - Stage the file to commit
+3. "git commit -m [Message]" - Commits all the staged files 
+4. "git push origin master" - Push the local repo to Github
+5. "git status" - Check to see if any files were staged or unstaged
