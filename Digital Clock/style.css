@@ -1,0 +1,15 @@
+#clock {
+	position: absolute;
+	font-size: 100px;
+	border: solid 2px #000000;
+	color: #ff0000;
+	text-align: center;
+	width: 50%;
+	left: 25%;
+}
+#tag {
+	font-family: 'Avant Garde';
+	position: relative;
+	left: 35%;
+	font-size: 75px;
+}
